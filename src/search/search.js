@@ -1,5 +1,5 @@
 import processData from './data'
-const API_KEY = 'BQAtQqELodyUuVNzwJyIAlOam6IvuHKZjIL2z2XFLe7oMOmKLk3VmYCPWMx5EsVlco8c4V6reBHtCDQPIBM7HJMrsF0xcf3ABWuBkvmjGnUcu7wsI6nnNTZ--wQm3uC7vGkvP8qmyOK3AX_6CxHZ'
+const API_KEY = ''
 
 class SearchEngine {
     execute(searchType, searchText) {
